@@ -1,4 +1,3 @@
-```markdown
 # Arduino Motion Detector with PIR Sensor and LED Alert
 
 This project is a simple motion detector built using an Arduino board, a PIR motion sensor, and an LED. When motion is detected, the LED lights up for a short duration.
