@@ -45,6 +45,7 @@ if (digitalRead(sensor) == HIGH) {
    - Negative (short leg) → GND
 
 3. Upload the sketch to your Arduino.
+
 ![1506106762614](https://github.com/user-attachments/assets/43965d83-6f34-497a-8880-8ddd0c864301)
 
 ## 📄 License
